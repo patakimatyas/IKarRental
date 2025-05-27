@@ -22,7 +22,7 @@ A simple car rental web application developed for a Web Programming course at un
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/IKarRental.git
+    git clone https://github.com/patakimatyas/IKarRental.git
     ```
 2. Place the folder in your local web server’s directory.
 3. Start your web server.

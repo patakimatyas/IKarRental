@@ -1,0 +1,36 @@
+#rentImg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+span {
+    color: red;
+}
+.infocard {
+    margin: 0.5rem;
+}
+.listed{
+    margin-top: 1rem;
+}
+
+.listed:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+body{
+    background-image: url("pics/whitebackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 4rem; 
+}
+
+.btn-outline-secondary{
+    margin: 5px;
+}
+
+#mainpage{
+    padding: 2rem;
+}

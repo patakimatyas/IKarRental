@@ -8,7 +8,6 @@ A simple car rental web application developed for a Web Programming course at un
 - Bootstrap 5
 - HTML, CSS
 - JSON for mock storage
-- 
 ## ✨ Features
 
 - User registration and login

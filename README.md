@@ -20,6 +20,7 @@ A simple car rental web application developed for a Web Programming course at un
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/f60ae2f2-3e00-43a3-ac37-655a7319af8d)
+![image](https://github.com/user-attachments/assets/a041e24f-6445-4918-b5ba-aae6349deba3)
 ![image](https://github.com/user-attachments/assets/770180d9-7dc9-4fe1-a952-22b303c8b8d5)
 ![image](https://github.com/user-attachments/assets/aa538db1-4f58-4cd5-9e1c-f070d80d03e5)
 
